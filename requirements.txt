@@ -1,0 +1,12 @@
+# Data structures
+numpy
+pandas
+
+# Visualization
+matplotlib
+
+# Web Development
+fastapi[standard]
+
+# Testing
+pytest
