@@ -8,7 +8,7 @@ Repository for the studying of Python's basics.
 
 **Libraries**
 - [ ] pytest
-- [ ] numpy
+- [x] numpy
 - [ ] pandas
 - [ ] matplotlib
 - [ ] opencv
