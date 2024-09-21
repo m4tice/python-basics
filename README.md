@@ -13,6 +13,13 @@ Repository for the studying of Python's basics.
 - [ ] matplotlib
 - [ ] opencv
 
+**Setup**
+- [ ] creating requirements
+- [ ] environments
+- [ ] pip
+- [ ] git
+- [ ] CI/CD
+
 **Concepts**
 **Beginner**
 - [ ] Variables and Data Types
