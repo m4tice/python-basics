@@ -25,7 +25,7 @@ Repository for the studying of Python's basics.
 - [x] Variables and Data Types
 - [x] Control Flow and Conditional Statements
 - [x] Loops
-- [ ] Functions / Function Annotations and Type Hints
+- [x] Functions / Function Annotations and Type Hints
 - [ ] Lists and List Manipulation / List Comprehension
 
 **Intermediate**
