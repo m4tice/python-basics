@@ -1,2 +1,48 @@
 # python-basics
-Repository for the studying of Python's basics
+Repository for the studying of Python's basics.
+
+# To-do
+**Models**  
+- [ ] Pydantic  
+- [ ] Enum
+
+**Libraries**
+- [ ] pytest
+- [ ] numpy
+- [ ] pandas
+- [ ] matplotlib
+- [ ] opencv
+
+**Concepts**
+**Beginner**
+- [ ] Variables and Data Types
+- [ ] Control Flow and Conditional Statements
+- [ ] Loops
+- [ ] Functions / Function Annotations and Type Hints
+- [ ] Lists and List Manipulation / List Comprehension
+
+**Intermediate**
+- [ ] Object-Oriented Programming (OOP)
+- [ ] Recursion
+- [ ] Exception handling
+- [ ] File Handling
+- [ ] Modules and Packages
+- [ ] Generators and Iterators
+- [ ] Context Managers
+- [ ] Test
+
+**Advanced**  
+- [ ] Decorators (with Arguments)
+- [ ] Lambda function
+- [ ] Map function
+- [ ] Itertools
+- [ ] Collections
+- [ ] Magic methods
+- [ ] Regular expressions
+- [ ] Data Serialization with JSON and Pickle
+
+**Expert**  
+- [ ] Multithreading and Multiprocessing
+- [ ] Metaclasses
+- [ ] Asynchronous Programming
+- [ ] Closures
