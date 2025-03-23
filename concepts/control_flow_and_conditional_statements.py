@@ -3,7 +3,8 @@ Concept: Control Flow and Conditional Statements
 Level: Beginner
 """
 
-# Python has several control flow and conditional statements that are used to control the flow of a program. These include:
+# Python has several control flow and conditional statements
+# that are used to control the flow of a program. These include:
 
 # Example 1: if statement
 print("Example 1: if statement")
@@ -17,14 +18,14 @@ else:
 
 # Example 2: if-elif-else statement
 print("\nExample 2: if-elif-else statement")
-number = 1
+NUMBER = 1
 
-if 1 == number:
-    print(". Number is 1")
-elif 2 == number:
-    print(". Number is 2")
+if 1 == NUMBER:
+    print(". NUMBER is 1")
+elif 2 == NUMBER:
+    print(". NUMBER is 2")
 else:
-    print(". Number is not 1 or 2")
+    print(". NUMBER is not 1 or 2")
 
 
 # Example 3: nested if statement
