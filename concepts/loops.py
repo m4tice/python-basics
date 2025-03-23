@@ -19,20 +19,18 @@ for i in range(0, 10, 2):
 
 # Example 3: while loop
 print("\nExample 3: while loop")
-counter = 0
-while counter < 5:
-    print(".", counter)
-    counter += 1
+COUNTER = 0
+while COUNTER < 5:
+    print(".", COUNTER)
+    COUNTER += 1
 
 
 # Example 4: while loop with else statement
 print("\nExample 4: while loop with else statement")
-counter = 0
-while counter < 5:
-    print(".", counter)
-    counter += 1
-else:
-    print(". Loop is complete")
+COUNTER = 0
+while COUNTER < 5:
+    print(".", COUNTER)
+    COUNTER += 1
 
 
 # Example 5: break statement
