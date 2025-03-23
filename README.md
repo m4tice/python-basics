@@ -7,7 +7,7 @@ Repository for the studying of Python's basics.
 - [ ] Enum
 
 **Libraries**
-- [ ] pytest
+- [x] pytest
 - [x] numpy
 - [ ] pandas
 - [ ] matplotlib
