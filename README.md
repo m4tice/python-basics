@@ -26,7 +26,7 @@ Repository for the studying of Python's basics.
 - [x] Control Flow and Conditional Statements
 - [x] Loops
 - [x] Functions / Function Annotations and Type Hints
-- [ ] Lists and List Manipulation / List Comprehension
+- [x] Lists and List Manipulation / List Comprehension
 
 **Intermediate**
 - [ ] Object-Oriented Programming (OOP)
