@@ -18,7 +18,7 @@ Repository for the studying of Python's basics.
 - [ ] environments
 - [ ] pip
 - [ ] git
-- [ ] CI/CD
+- [x] CI/CD
 
 **Concepts**
 **Beginner**
