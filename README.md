@@ -27,7 +27,8 @@ Repository for the studying of Python's basics.
 - [x] Loops
 - [x] Functions / Function Annotations and Type Hints
 - [x] Lists and List Manipulation / List Comprehension
-
+- [x] CLI
+ 
 **Intermediate**
 - [ ] Object-Oriented Programming (OOP)
 - [ ] Recursion
