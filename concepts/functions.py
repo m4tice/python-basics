@@ -2,6 +2,7 @@
 Concept: Functions / Function Annotations and Type Hints
 Level: Beginner
 """
+#pylint: disable=line-too-long
 
 # Python has several built-in functions that can be used to perform specific tasks. These include:
 list_any = any([True, False, True]) # Returns True if any element in the list is True
