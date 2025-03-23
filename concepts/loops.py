@@ -51,7 +51,7 @@ for i in range(5):
 # Example 7: pass statement
 print("\nExample 7: pass statement")
 for i in range(5):
-    pass
+    pass  #pylint: disable=unnecessary-pass
     print(".", i) # This will never be printed
 
 
